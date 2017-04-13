@@ -1,0 +1,17 @@
+{
+  "name": "fis3-preprocessor-noob-replace",
+  "version": "1.0.0",
+  "description": "fis3-preprocessor-noob-replace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis3",
+    "noob",
+    "replace",
+    "preprocessor"
+  ],
+  "author": "noob-lib",
+  "license": "MIT"
+}
