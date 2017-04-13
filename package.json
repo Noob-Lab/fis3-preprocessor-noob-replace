@@ -12,6 +12,10 @@
     "replace",
     "preprocessor"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Noob-Lab/fis3-preprocessor-noob-replace"
+  },
   "author": "noob-lib",
   "license": "MIT"
 }
