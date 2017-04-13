@@ -18,7 +18,6 @@ module.exports = function (content, file, settings) {
   if(fis.util.is(settings.from,'String')){
     settings.from = new RegExp(fis.util.escapeReg(settings.from), 'g');
   }
-console.log(fis.util.is(settings.from, 'String'))
   if(!fis.util.is(settings.from, 'RegExp')){
     fis.log.error('fis3-prepackager-noob-replace: settings.from must a string or RegExp ')
   }
